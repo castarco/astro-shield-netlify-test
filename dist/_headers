@@ -1,2 +1,0 @@
-/index.html
-	content-security-policy: script-src 'self' 'sha256-YAk8ai9SByMV+33RYW8X9h1hAw/4tANFlFpU4Kt1jeI='; style-src 'self' 'sha256-ZlgyI5Bx/aeAyk/wSIypqeIM5PBhz9IiAek9HIiAjaI='

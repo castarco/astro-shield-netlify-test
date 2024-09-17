@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@kindspells/astro-shield':
-        specifier: ^1.5.1
-        version: 1.5.1(astro@4.15.6(rollup@4.21.3)(typescript@5.6.2))
+        specifier: ^1.5.2
+        version: 1.5.2(astro@4.15.6(rollup@4.21.3)(typescript@5.6.2))
       astro:
         specifier: ^4.15.6
         version: 4.15.6(rollup@4.21.3)(typescript@5.6.2)
@@ -393,8 +393,8 @@ packages:
   '@jridgewell/trace-mapping@0.3.25':
     resolution: {integrity: sha512-vNk6aEwybGtawWmy/PzwnGDOjCkLWSD2wqvjGGAgOAwCGWySYXfYoxt00IJkTF+8Lb57DwOb3Aa0o9CApepiYQ==}
 
-  '@kindspells/astro-shield@1.5.1':
-    resolution: {integrity: sha512-KXF0MNdj745FFJqQ0Q4EMXJV81S2EU1kz7Q/K5GntXlxDADk1NzMENNTD4iKn3g945XGJ75JT2NmfcyR4uGmtQ==}
+  '@kindspells/astro-shield@1.5.2':
+    resolution: {integrity: sha512-34xUYq48KphQQRDdtnlz0KyeLeczqnCpDjwKoWak9a8XcGIQ0ZOkJUTQdO7+OhnqLDRhyi1F7dLGGrFZ52H+tw==}
     engines: {node: '>= 18.0.0'}
     peerDependencies:
       astro: ^4.0.0
@@ -1927,7 +1927,7 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.0
 
-  '@kindspells/astro-shield@1.5.1(astro@4.15.6(rollup@4.21.3)(typescript@5.6.2))':
+  '@kindspells/astro-shield@1.5.2(astro@4.15.6(rollup@4.21.3)(typescript@5.6.2))':
     dependencies:
       astro: 4.15.6(rollup@4.21.3)(typescript@5.6.2)
 

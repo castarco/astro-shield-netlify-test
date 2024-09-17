@@ -11,7 +11,7 @@
 	"author": "Andres Correa Casablanca <andreu@kindspells.dev>",
 	"license": "MIT",
 	"dependencies": {
-		"@kindspells/astro-shield": "^1.5.1",
+		"@kindspells/astro-shield": "^1.5.2",
 		"astro": "^4.15.6"
 	}
 }
